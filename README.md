@@ -1,4 +1,4 @@
-<img style="float: right" src="/manvellkate.jpg" height="300px" alt="Kate Manvell headshot" />
+<img style="float: right" src="/manvellkate.jpg" height="350px" alt="Kate Manvell headshot" />
 
 # Kate Manvell Notary Public
 
