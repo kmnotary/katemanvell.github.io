@@ -1,3 +1,5 @@
+<img style="float: right" src="/manvellkate.jpg" height="200px" alt="Kate Manvell headshot" />
+
 # Kate Manvell Notary Public
 
 ## Contact
